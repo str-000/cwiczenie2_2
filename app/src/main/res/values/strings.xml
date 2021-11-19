@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Napisy2</string>
+    <string name="new_string">Nowy kolorowy napis</string>
+    <string name="label">Napisy</string>
+</resources>
